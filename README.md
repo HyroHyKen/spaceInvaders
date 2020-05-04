@@ -25,7 +25,7 @@ Les principales difficultées étaient :
 
 **Nuage de mots**
 
-![Nuage De Mots](spaceinvaders/images/nuagedemots.PNG?raw=true "Title")
+![Nuage De Mots](images/nuagedemots.PNG?raw=true "Title")
 
 ## Glossaire :
 
